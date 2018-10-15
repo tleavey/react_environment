@@ -13,14 +13,14 @@ webpack webpack-cli (run webpack commands on cli) webpack-dev-server (nodemon fo
 SASS/CSS specific
 sass-loader node-sass css-loader style-loader
 
-`npm i -D sass-loader node-sass css-loader style-loader`
+`npm i sass-loader node-sass css-loader style-loader`
 
 HTML
 html-webpack-plugin
 
-`npm i -D sass-loader node-sass css-loader style-loader html-webpack-plugin`
+`npm i sass-loader node-sass css-loader style-loader html-webpack-plugin`
 
 React
 react react-dom (actually allow React to manipulate the DOM) dotenv
 
-`npm i -D react react-dom dotenv`
+`npm i react react-dom dotenv`
