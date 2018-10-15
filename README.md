@@ -1,4 +1,7 @@
-Configuration
+#Some ReactJS project
+
+#Configuration
+
 Babel
 babel-core bable-preset-env (transpile ES6 into ES5) babel-present-react (transpile JSX since it isn't true HTML) babel-loader (this is for webpack) babel-present-stage-0 (we can now use experimental ES7/8 stuff!)
 
