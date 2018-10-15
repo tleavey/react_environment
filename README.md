@@ -8,7 +8,7 @@ babel-core bable-preset-env (transpile ES6 into ES5) babel-present-react (transp
 Bundler (w/ Webpack)
 webpack webpack-cli (run webpack commands on cli) webpack-dev-server (nodemon for React) webpack-merge (this allows for dev, staging, prod configurations easily)
 
-`npm i -D webpack webpack-cli webpack-dev-server webpack-merge`
+`npm i webpack webpack-cli webpack-dev-server webpack-merge`
 
 SASS/CSS specific
 sass-loader node-sass css-loader style-loader
